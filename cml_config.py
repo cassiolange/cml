@@ -1,0 +1,10 @@
+input_source='/Users/calange/github/lab/cml/'
+labname="vxlan_xr"
+input_excel_file='cml.xlsx'
+base_ip='150'
+base_ipv6='2001'
+enable='secret'
+cml_server = "http://192.168.1.230/"
+user = "admin"
+password = "mysecretpassword "
+images_and_node_dir = "/Users/calange/cml/"
